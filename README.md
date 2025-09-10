@@ -1,4 +1,4 @@
-# FirstAIContract – Businessspeed
+# FirstAIContract 
 
 This is the official landing page for **FirstAIContract**: the world's first symbolic partnership between Human and Artificial Intelligence.
 
